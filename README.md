@@ -6,6 +6,7 @@ Usage:
 ```
 repos:
 - repo: https://github.com/jackielii/ktlint-pre-commit
+  rev: 111a2622
   hooks:
       - id: ktlint
 ```
